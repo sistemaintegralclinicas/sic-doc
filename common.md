@@ -1,5 +1,6 @@
 ---
 
+### **Documentación del Formulario de Inicio de Sesión**
 
 #### **1. Descripción General**
 El formulario de inicio de sesión es la puerta de entrada al sistema administrativo. Permite a los usuarios autenticarse ingresando sus credenciales (usuario y contraseña). Además, incluye dos botones: "Aceptar" para validar las credenciales y "Cancelar" para limpiar los campos y cerrar el formulario.
