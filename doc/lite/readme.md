@@ -13,12 +13,16 @@ Esta documentación está dirigida a administradores, personal médico y técnic
 ### **Índice**
 
 
-1. **Manuales de Usuario**
-   - [Instalacion y configuracion](doc/instalacion/readme.md)
-   - [Manual del Usuario](doc/lite/readme.md)
+1. **Ingresando al sistema**
+   - [Iniciar sesion](common.md)
 
-2. **Manuales tecnicos**
-   - [Manuales tecnicos]()
+2. **Facturacion de pacientes**
+   - [Formulario de Registro de Pacientes](paciente.md)
+   - [Formulario de Admisión de Pacientes](admision-paciente.md)
+   - [Formulario de Gestión de Cuentas del Paciente](edo-cuenta-ambulatorio.md)
+   - [Formulario de Facturación a Pacientes](factura-hosp.md)
+   - [Consultar Notas de credito / debito](notasdc.md)
+   - [Generar Notas de credito / debito](notasdistribuidas.md)
 
 3. **Anexos**
    - Glosario de términos
