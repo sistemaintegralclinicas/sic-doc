@@ -24,7 +24,9 @@ El formulario de admisión de pacientes es utilizado para registrar la entrada d
 
 ##### **2.3. Datos del Seguro**
 - **Estado**: Estado del seguro (Activo, Inactivo).
+- Cuando el usuario carga la Admision y agrega un codigo de seguro y Graba(F1) se activa automaticamente la pestaña datos seguros
 - **Divisa**: Tipo de moneda en la que se maneja el seguro.
+- La divisa por defecto es "Bs." y sera la que por defecto se usa, la tasa indicara la conversion del BCV.
 - **S**: Indicador adicional del seguro (si aplica).
 
 ##### **2.4. Datos del Responsable**
