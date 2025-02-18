@@ -18,6 +18,8 @@ Esta documentación está dirigida a administradores, personal médico y técnic
    - [Manual del SQL](sql/sql.md)
    - [Manual del JDBC](jdbc/jdbc.md)
    - [Manual del ODBC](ODBC/ODBC.md)
+   - [Herramienta de consulta SQL](csql/csql.md)
+   - [Herramienta de monitoreoa de conexiones](monitor/monitor.md)
 
 
 
