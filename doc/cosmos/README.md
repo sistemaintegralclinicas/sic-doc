@@ -13,17 +13,10 @@ Esta documentación está dirigida a administradores, personal médico y técnic
 ### **Índice**
 
 
-1. **Manuales de Usuario**
-   - [Instalacion y configuracion](doc/instalacion/readme.md)
-   - [Manual del Usuario](doc/lite/readme.md)
+1. **Manuales tecnicos**
+   - [Manual del administrador](help/admin.chm)
 
-2. **Manuales tecnicos**
-   - [Manuales tecnicos](doc/cosmos/readmin.md)
 
-3. **Anexos**
-   - Glosario de términos
-   - Capturas de pantalla adicionales
-   - Enlaces útiles y recursos
 
 ---
 
