@@ -14,7 +14,7 @@ Esta documentación está dirigida a administradores, personal médico y técnic
 
 
 1. **Manuales tecnicos**
-   - [Manual del administrador](help/admin.chm)
+   - [Manual del administrador](help/admi.chm)
 
 
 
