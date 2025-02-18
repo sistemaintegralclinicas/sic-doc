@@ -21,7 +21,8 @@ Esta documentación está dirigida a administradores, personal médico y técnic
    - [Formulario de Admisión de Pacientes](admision-paciente.md)
    - [Formulario de Gestión de Cuentas del Paciente](edo-cuenta-ambulatorio.md)
    - [Formulario de Facturación a Pacientes](factura-hosp.md)
-   - [Notas de credito / debito](notasdc.md)
+   - [Consultar Notas de credito / debito](notasdc.md)
+   - [Generar Notas de credito / debito](notasdistribuidas.md)
 
 3. **Anexos**
    - Glosario de términos
