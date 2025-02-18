@@ -14,6 +14,7 @@ Esta documentación está dirigida a administradores, personal médico y técnic
 
 
 1. **Ingresando al sistema**
+   - [Iniciar sesion](common.md)
 
 2. **Facturacion de pacientes**
    - [Formulario de Registro de Pacientes](paciente.md)
