@@ -14,11 +14,11 @@ Esta documentación está dirigida a administradores, personal médico y técnic
 
 
 1. **Manuales de Usuario**
-   - [Instalacion y configuracion](doc/instalacion/readme.md)
-   - [Manual del Usuario](doc/lite/readme.md)
+   - [Instalacion y configuracion](doc/instalacion/README.md)
+   - [Manual del Usuario](doc/lite/README.md)
 
 2. **Manuales tecnicos**
-   - [Manuales tecnicos](doc/cosmos/readme.md)
+   - [Manuales tecnicos](doc/cosmos/README.md)
 
 3. **Anexos**
    - Glosario de términos
