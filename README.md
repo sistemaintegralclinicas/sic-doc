@@ -18,7 +18,7 @@ Esta documentación está dirigida a administradores, personal médico y técnic
    - [Manual del Usuario](doc/lite/readme.md)
 
 2. **Manuales tecnicos**
-   - [Manuales tecnicos](doc/cosmos/readmin.md)
+   - [Manuales tecnicos](doc/cosmos/readme.md)
 
 3. **Anexos**
    - Glosario de términos
