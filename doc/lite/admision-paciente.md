@@ -59,7 +59,8 @@ El formulario de admisión de pacientes es utilizado para registrar la entrada d
   - **Descripción**: Descripción adicional.
   - **Cuenta de Ingreso**: Cuenta asociada al ingreso.
   - **Otro Servicio**: Otros servicios requeridos.
-  - **Diagnóstico**: Diagnóstico final.
+  - **Diagnóstico**: Diagnóstico Ingreso, Dianostico inicial.
+  .
 
 ---
 
@@ -73,13 +74,13 @@ El formulario de admisión de pacientes es utilizado para registrar la entrada d
    - Ingrese el nombre, apellido, cédula y fecha de nacimiento del paciente.
 
 3. **Datos del Seguro**:
-   - Seleccione el estado del seguro y el tipo de divisa.
+   - Seleccione el codigo del seguro y el tipo de divisa.
 
 4. **Datos del Responsable**:
    - Ingrese la cédula, razón social, dirección, nombre del responsable y empresa responsable médica.
 
 5. **Identificación del Responsable**:
-   - Proporcione el teléfono, número de inscripción, empleo y nombre del usuario que realiza la admisión.
+   - El identificador automaticamente cuando se carga cedula responsable.
 
 6. **Datos del Ingreso**:
    - Seleccione la línea de ingreso y complete la configuración específica del ingreso, incluyendo descripción, fechas de ingreso y egreso, diagnóstico, servicios, medicamentos, análisis, técnico especialista, médico responsable, enfermedad, cuenta de ingreso y otros servicios.
