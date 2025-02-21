@@ -59,8 +59,12 @@ El formulario de admisión de pacientes es utilizado para registrar la entrada d
   - **Descripción**: Descripción adicional.
   - **Cuenta de Ingreso**: Cuenta asociada al ingreso.
   - **Otro Servicio**: Otros servicios requeridos.
+<<<<<<< Updated upstream
   - **Diagnóstico**: Diagnóstico Ingreso, Dianostico inicial.
   .
+=======
+  - **Diagnóstico**: Diagnóstico Inicial del Ingreso.
+>>>>>>> Stashed changes
 
 ---
 
